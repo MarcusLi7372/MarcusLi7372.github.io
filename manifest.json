@@ -1,0 +1,19 @@
+{
+  "name": "TAIDA PU-HOSE CO., LTD",
+  "short_name": "TAIDA PU-HOSE",
+  "description": "广州台达制塑管业有限公司 — Professional PU air-compressor hose manufacturer",
+  "start_url": "/zh/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "/assets/images/site/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

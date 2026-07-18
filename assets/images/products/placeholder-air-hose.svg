@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="PU air-compressor hose placeholder illustration">
+  <defs>
+    <linearGradient id="bgA" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1a1c20"/>
+      <stop offset="1" stop-color="#0c0d0f"/>
+    </linearGradient>
+    <linearGradient id="hoseA" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#e2372f"/>
+      <stop offset="1" stop-color="#8f1f1a"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#bgA)"/>
+  <g fill="none" stroke="url(#hoseA)" stroke-width="14" stroke-linecap="round">
+    <path d="M60 220 C 60 140, 140 160, 160 110 S 260 40, 340 80"/>
+  </g>
+  <g fill="none" stroke="#2c2f34" stroke-width="14" stroke-linecap="round" opacity="0.6">
+    <path d="M60 220 C 60 140, 140 160, 160 110 S 260 40, 340 80" stroke-dasharray="2 22"/>
+  </g>
+  <circle cx="60" cy="220" r="16" fill="#3a3d42" stroke="#6a6e75" stroke-width="3"/>
+  <circle cx="340" cy="80" r="16" fill="#3a3d42" stroke="#6a6e75" stroke-width="3"/>
+  <text x="200" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#7a7d83" letter-spacing="1">PU AIR-COMPRESSOR HOSE — PHOTO PLACEHOLDER</text>
+</svg>

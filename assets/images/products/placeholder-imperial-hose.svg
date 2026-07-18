@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Imperial PU air-compressor hose placeholder illustration">
+  <defs>
+    <linearGradient id="bgC" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1a1c20"/>
+      <stop offset="1" stop-color="#0c0d0f"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#bgC)"/>
+  <rect x="50" y="130" width="300" height="26" rx="13" fill="none" stroke="#e2372f" stroke-width="6"/>
+  <g stroke="#4a4d53" stroke-width="2">
+    <line x1="90" y1="120" x2="90" y2="166"/>
+    <line x1="140" y1="120" x2="140" y2="166"/>
+    <line x1="190" y1="120" x2="190" y2="166"/>
+    <line x1="240" y1="120" x2="240" y2="166"/>
+    <line x1="290" y1="120" x2="290" y2="166"/>
+  </g>
+  <text x="200" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#9a9da3" letter-spacing="2">1/8 · 3/16 · 1/4 · 3/8 · 1/2"</text>
+  <text x="200" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#7a7d83" letter-spacing="1">IMPERIAL PU AIR-COMPRESSOR HOSE — PHOTO PLACEHOLDER</text>
+</svg>

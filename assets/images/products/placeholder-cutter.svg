@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Hexagonal tube cutter illustration">
+  <defs>
+    <linearGradient id="bgE" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1a1c20"/>
+      <stop offset="1" stop-color="#0a0b0d"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#bgE)"/>
+  <polygon points="200,75 248,101 248,153 200,179 152,153 152,101" fill="none" stroke="#e2372f" stroke-width="7"/>
+  <line x1="200" y1="179" x2="200" y2="228" stroke="#7a7d83" stroke-width="9" stroke-linecap="round"/>
+  <ellipse cx="200" cy="238" rx="30" ry="11" fill="#3a3d42" stroke="#7a7d83" stroke-width="3"/>
+</svg>

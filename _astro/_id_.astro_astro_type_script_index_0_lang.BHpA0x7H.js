@@ -1,0 +1,1 @@
+import{n as e}from"./quote.CQfGR-dm.js";import{a as t,i as n,n as r}from"./compare.Bwl94A6n.js";function i(){document.querySelectorAll(`[data-compare-toggle]`).forEach(e=>{e.addEventListener(`change`,()=>t(e.dataset.compareToggle))})}e(),i(),n(),r();
